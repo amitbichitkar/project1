@@ -73,7 +73,7 @@
           <artifactId>tomcat7-maven-plugin</artifactId>
           <version>2.2</version>
           <configuration>
-            <url>http://54.89.166.186:8080/manager/text</url>
+            <url>http://54.221.78.147:8080/manager/text</url>
             <server>tomcatserver</server>
             <path>/carwebapp</path>
             <username>admin</username>
